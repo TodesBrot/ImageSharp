@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 namespace SixLabors.ImageSharp.PixelFormats
 {
     /// <summary>
-    /// Packed pixel type containing a single 8 bit normalized W values.
+    /// Packed pixel type containing a single 8 bit normalized W value.
     /// <para>
     /// Ranges from [0, 0, 0, 0] to [0, 0, 0, 1] in vector form.
     /// </para>
